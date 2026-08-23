@@ -1,0 +1,7 @@
+# This public repository is documentation-only by design.
+*
+!.gitignore
+!README.md
+!DISCLOSURE.md
+!docs/
+!docs/**
